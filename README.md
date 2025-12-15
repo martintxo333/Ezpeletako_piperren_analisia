@@ -30,13 +30,13 @@ This project is intended for **educational purposes**
 
 ## Requirements
 
+Please keep the CSV file in the same directory as this script to run it correctly.
 Before running the program, make sure you have the following installed:
 
 - Python 3.x
 - Required Python libraries:
   ```bash
   pip install pandas matplotlib
-  - The CSV
 
 ## Author
 Martin Maiz Negredo
