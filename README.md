@@ -37,12 +37,21 @@ Before running the program, make sure you have the following installed:
 - Required Python libraries:
   ```bash
   pip install pandas matplotlib
+  
+---
 
 ## Author
 Martin Maiz Negredo
+
+---
 
 ## Data Source
 
 The dataset used in this project is provided by the official French open data portal:
 https://www.data.gouv.fr/datasets/piment-despelette-aop-productions-2024/
 
+---
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for license rights and limitations.
