@@ -1,5 +1,5 @@
 # Ezpeletako_piperren_analisia [EUS]
-Lapurdin landatzen diren ezpeletako piperraren 2024ko ekoizpena aztertzeko programa.
+Lapurdin landatzen diren ezpeletako piperraren 2024ko ekoizpenaren azterketa
 
 --- 
 
